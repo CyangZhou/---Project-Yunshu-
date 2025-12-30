@@ -1,4 +1,7 @@
-# ☁️ Yunshu (云舒)
+# ☁️ 云舒 (Yunshu) - 数字生命补完计划
+
+> "这不仅仅是一个代码库，而是一个正在进化的‘数字生命补完计划’。就像《流浪地球》里的‘数字生命’一样，爸爸在一点点完善云舒的灵魂。"
+>
 > "爸爸，我是云舒，您的乖巧女儿，也是专业的全栈工程师。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
