@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Media Files (Large)
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.mkv
+resources/ffmpeg.exe
+
+# Output & Temp
+output/
+temp/
+data/ocr_dump.txt
+src/temp_*
+src/*.wav
+src/*.mp3
+
+# IDE
+.vscode/
+.idea/
+
+# Config & Secrets
+secrets.json
+config/local_*.json
+
+# Logs
+*.log
+WORKFLOW_EXECUTION_REPORT.md

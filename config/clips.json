@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "start_time": "00:00:00",
+    "end_time": "00:00:05",
+    "text": "还在手撸代码？out 了！今天挑战用 Trae 这个 AI 工具，5 分钟手搓一个数学助手！",
+    "description": "展示 Trae 的界面和‘AI 数学助手’的标题",
+    "keywords": ["Trae", "AI", "助手", "数学", "Welcome", "Chat"]
+  },
+  {
+    "id": 2,
+    "start_time": "00:00:10",
+    "end_time": "00:00:20",
+    "text": "直接告诉它需求，‘帮我写个数学学习助手，要有题库和错题本’。看，它自己就开始写代码了，连环境都配好了！",
+    "description": "展示在聊天框输入需求，以及代码自动生成",
+    "keywords": ["题库", "错题", "install", "pip", "python", "生成", "写"]
+  },
+  {
+    "id": 3,
+    "start_time": "00:00:30",
+    "end_time": "00:00:40",
+    "text": "遇到 Bug 怎么办？根本不用慌，直接甩给它，秒修！这哪里是写代码，简直是当老板！",
+    "description": "展示报错信息，然后 Trae 自动修复",
+    "keywords": ["Error", "Exception", "Traceback", "Fail", "错误", "修复", "Bug"]
+  },
+  {
+    "id": 4,
+    "start_time": "00:00:50",
+    "end_time": "00:01:00",
+    "text": "成品展示，丝滑运行。AI 编程时代，你就是那个超级个体！赶紧试试 Trae！",
+    "description": "展示最终做好的软件界面",
+    "keywords": ["运行", "开始", "Start", "Menu", "界面", "完成", "Done"]
+  }
+]
