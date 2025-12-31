@@ -36,3 +36,8 @@ config/local_*.json
 # Logs
 *.log
 WORKFLOW_EXECUTION_REPORT.md
+
+# Private / Local Only
+docs/云舒技能库/
+云舒_数字生命体_备份/
+
